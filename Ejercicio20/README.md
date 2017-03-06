@@ -3,4 +3,4 @@
 ## Ejercicios-Ejercicio 2
 
 
-![imagen](https://github.com/GlisseLisbeth/Grace_Hopper/blob/master/assest/img/Ejercicio1.png)
+![imagen](https://github.com/GlisseLisbeth/Ejercicio2HTML/blob/master/Ejercicio20/img/Ejercicio1.png)
