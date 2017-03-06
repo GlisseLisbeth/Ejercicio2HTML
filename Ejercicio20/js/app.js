@@ -35,8 +35,8 @@ function soloNumeros(e){
             return false;
         }
 }
-function enviarDatos(){
-
+function enviarDatos(event){
+  event.preventDefault();
   reporte.innerHTML =         "<ul>"
           +"<li><label for='nombre'>Nombre: </label>"+document.getElementById("nombre").value+"</li>"
           +"<li><label for='apellido'>Apellido: </label>"+document.getElementById("apellido").value+"</li>"
